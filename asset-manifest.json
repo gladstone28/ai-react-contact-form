@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ai-react-contact-form/static/css/main.f855e6bc.css",
-    "main.js": "/ai-react-contact-form/static/js/main.c4622485.js",
+    "main.css": "/ai-react-contact-form/static/css/main.151173e9.css",
+    "main.js": "/ai-react-contact-form/static/js/main.2741b2cc.js",
     "index.html": "/ai-react-contact-form/index.html",
-    "main.f855e6bc.css.map": "/ai-react-contact-form/static/css/main.f855e6bc.css.map",
-    "main.c4622485.js.map": "/ai-react-contact-form/static/js/main.c4622485.js.map"
+    "main.151173e9.css.map": "/ai-react-contact-form/static/css/main.151173e9.css.map",
+    "main.2741b2cc.js.map": "/ai-react-contact-form/static/js/main.2741b2cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c4622485.js"
+    "static/css/main.151173e9.css",
+    "static/js/main.2741b2cc.js"
   ]
 }
