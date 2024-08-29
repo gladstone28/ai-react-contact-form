@@ -24,3 +24,4 @@ my-react-app/
 ├── README.md
 └── yarn.lock / package-lock.json
 
+![](./proj-structure-scan.png)
